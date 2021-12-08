@@ -13,7 +13,12 @@ const portfolioSchema = new Schema({
   startDate: { type: Date, required: true},
   endDate: { type: Date },
   userId: { type: String, required: true },
-  createdAt: { type: Date, default: Date.now }
+  createdAt: { type: Date, default: Date.now },
+  category:{ type: String, required: true },
+  logoUrl:{ type: String, required: true },
+  organization:{ type: String, required: true },
+  techUsed:{ type: String, required: true },
+  website:{ type: String, required: true }
 })
 
 module.exports = mongoose.model('Portfolio', portfolioSchema);
