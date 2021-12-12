@@ -1,5 +1,13 @@
-# portfolio-jerga-api
-Api Server - Udemy course material
+# portfolio-nutdanai-api
+This portfolio is the modified version of the <a href="https://github.com/Jerga99/portfolio-jerga-api">portfolio-jerga-api repository</a> from the following Udemy Course :  
+<a href="https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/" > Complete Next.js with React & Node - Beautiful Portfolio App </a>  
+A big thank you to Jerga for creating such a beautiful and iconic Portfolio Website :) 
+  
+  
+  
+  
+<br/><br/>
+ORIGINAL README  
 
 
 ### 1. Run `npm install` to install all of the dependencies
